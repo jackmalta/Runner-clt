@@ -31,6 +31,7 @@
     {"name":"spr_chocolate","order":6,"path":"sprites/spr_chocolate/spr_chocolate.yy",},
     {"name":"spr_clt","order":2,"path":"sprites/spr_clt/spr_clt.yy",},
     {"name":"spr_coxinha","order":5,"path":"sprites/spr_coxinha/spr_coxinha.yy",},
+    {"name":"spr_espaco","order":4,"path":"sprites/spr_espaco/spr_espaco.yy",},
     {"name":"spr_hamburg","order":4,"path":"sprites/spr_hamburg/spr_hamburg.yy",},
     {"name":"spr_imagem2","order":1,"path":"sprites/spr_imagem2/spr_imagem2.yy",},
     {"name":"spr_imagem3","order":2,"path":"sprites/spr_imagem3/spr_imagem3.yy",},
